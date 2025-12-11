@@ -18,3 +18,4 @@ sphinxcontrib-jsmath
 sphinxcontrib-jquery
 sphinxcontrib-qthelp
 sphinxcontrib-serializinghtml
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
