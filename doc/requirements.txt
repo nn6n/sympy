@@ -18,3 +18,5 @@ sphinxcontrib-jsmath
 sphinxcontrib-jquery
 sphinxcontrib-qthelp
 sphinxcontrib-serializinghtml
+fonttools>=4.61.0 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.5.3 # not directly required, pinned by Snyk to avoid a vulnerability
